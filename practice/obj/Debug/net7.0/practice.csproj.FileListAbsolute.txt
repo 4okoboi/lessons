@@ -1,0 +1,15 @@
+/Users/kkamilka/Projects/practice/practice/bin/Debug/net7.0/practice
+/Users/kkamilka/Projects/practice/practice/bin/Debug/net7.0/practice.deps.json
+/Users/kkamilka/Projects/practice/practice/bin/Debug/net7.0/practice.runtimeconfig.json
+/Users/kkamilka/Projects/practice/practice/bin/Debug/net7.0/practice.dll
+/Users/kkamilka/Projects/practice/practice/bin/Debug/net7.0/practice.pdb
+/Users/kkamilka/Projects/practice/practice/obj/Debug/net7.0/practice.csproj.AssemblyReference.cache
+/Users/kkamilka/Projects/practice/practice/obj/Debug/net7.0/practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kkamilka/Projects/practice/practice/obj/Debug/net7.0/practice.AssemblyInfoInputs.cache
+/Users/kkamilka/Projects/practice/practice/obj/Debug/net7.0/practice.AssemblyInfo.cs
+/Users/kkamilka/Projects/practice/practice/obj/Debug/net7.0/practice.csproj.CoreCompileInputs.cache
+/Users/kkamilka/Projects/practice/practice/obj/Debug/net7.0/practice.dll
+/Users/kkamilka/Projects/practice/practice/obj/Debug/net7.0/refint/practice.dll
+/Users/kkamilka/Projects/practice/practice/obj/Debug/net7.0/practice.pdb
+/Users/kkamilka/Projects/practice/practice/obj/Debug/net7.0/practice.genruntimeconfig.cache
+/Users/kkamilka/Projects/practice/practice/obj/Debug/net7.0/ref/practice.dll
