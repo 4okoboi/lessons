@@ -1,0 +1,15 @@
+/Users/kkamilka/Projects/practice/dz/bin/Debug/net7.0/dz
+/Users/kkamilka/Projects/practice/dz/bin/Debug/net7.0/dz.deps.json
+/Users/kkamilka/Projects/practice/dz/bin/Debug/net7.0/dz.runtimeconfig.json
+/Users/kkamilka/Projects/practice/dz/bin/Debug/net7.0/dz.dll
+/Users/kkamilka/Projects/practice/dz/bin/Debug/net7.0/dz.pdb
+/Users/kkamilka/Projects/practice/dz/obj/Debug/net7.0/dz.csproj.AssemblyReference.cache
+/Users/kkamilka/Projects/practice/dz/obj/Debug/net7.0/dz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kkamilka/Projects/practice/dz/obj/Debug/net7.0/dz.AssemblyInfoInputs.cache
+/Users/kkamilka/Projects/practice/dz/obj/Debug/net7.0/dz.AssemblyInfo.cs
+/Users/kkamilka/Projects/practice/dz/obj/Debug/net7.0/dz.csproj.CoreCompileInputs.cache
+/Users/kkamilka/Projects/practice/dz/obj/Debug/net7.0/dz.dll
+/Users/kkamilka/Projects/practice/dz/obj/Debug/net7.0/refint/dz.dll
+/Users/kkamilka/Projects/practice/dz/obj/Debug/net7.0/dz.pdb
+/Users/kkamilka/Projects/practice/dz/obj/Debug/net7.0/dz.genruntimeconfig.cache
+/Users/kkamilka/Projects/practice/dz/obj/Debug/net7.0/ref/dz.dll
