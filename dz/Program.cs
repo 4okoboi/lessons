@@ -4,7 +4,7 @@
     long counter = 3;
     double res = x;
     long fact = 1 * 2 * 3;
-    double x_up = x * x * x;
+    double xUp = x * x * x;
     while (Math.Abs(check - res) > eps)
     {
         if (counter % 2 != 0)
@@ -14,14 +14,14 @@
         Console.WriteLine((res, counter));
         counter += 1;
         fact *= counter;
-        x_up *= x;
+        xUp *= x;
     }
     return counter - 1;
 }
 
 //Console.WriteLine(ps2_1_8(3, 0.0001));
 
-static long ps2_2_4 (double eps)
+static double ps2_2_4 (double eps)
 {
     double res = 2 * Math.Log(2);
     long counter = 1;
@@ -29,9 +29,8 @@ static long ps2_2_4 (double eps)
     {
         res += 8 * (1.0 / ((4 * counter - 2) * (4 * counter - 1)));
         counter += 1;
-        Console.WriteLine((counter, res));
     }
-    return counter - 1;
+    return res;
 }
 //Console.WriteLine(ps2_2_4(0.0001));
 
