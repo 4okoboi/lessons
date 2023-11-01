@@ -3,8 +3,7 @@ static void Main()
     // Создаем словарь для хранения слов и их частот
     Dictionary<string, int> wordFrequency = new Dictionary<string, int>();
 
-    // Замените "путь_к_вашему_файлу.txt" на актуальный путь к вашему текстовому файлу
-    string filePath = "путь_к_вашему_файлу.txt";
+    string filePath = "файл.txt";
 
 
     // Считываем текст из файла
